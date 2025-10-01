@@ -1,0 +1,7 @@
+﻿Clone Test Run
+
+
+● Inside Jira app, Users should be able to initiate Clone Test Run to open up modal
+● Appropriate name of test run must be seen
+● User can select all test cases or filter by test case results
+● User should be shown appropriate notification
