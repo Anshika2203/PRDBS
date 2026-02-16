@@ -1,0 +1,8 @@
+Soft Delete Preview
+
+
+Problem Statement:
+Currently, immediate archived after user confirmation. Some users find this flow too abrupt and risky, especially during bulk actions. There is a need to offer a preview mode before committing to archive.
+
+Feature Description:
+Introduce a 'soft delete' preview mode for test case archiving. After users select what to archive, they enter a temporary preview state with a final CTA to confirm.
