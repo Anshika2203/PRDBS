@@ -1,0 +1,14 @@
+Filtered Folder View Toggle in Listing page
+
+
+Tasks to be done
+- Allow switching between consolidated and folder-based view when filters are applied
+- Ensure only folders with matching cases ones are rendered, with necessary parents
+- Implement folder/consolidated toggle component above the listing
+
+
+Logic
+- The toggle is visible when any filter is applied.
+- When enabled, folders containing filtered matched ones are shown with their parent path.
+- All folder actions are disabled in filtered view.
+- Folder counts should reflect number post-filter
